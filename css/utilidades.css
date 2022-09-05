@@ -1,0 +1,34 @@
+.fonte-menu {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.3125rem;
+  line-height: 1.375rem;
+  
+ 
+}
+
+.menu a {
+  color: #C4C4CC;
+  border: 3px solid transparent;
+}
+
+.menu a:hover {
+  color: #FFFFFF;
+  font-weight: 700;
+  transition: .3s;
+}
+
+.active {
+  color: #FFFFFF;
+}
+
+.texto {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 160%;
+
+  color: #E1E1E6;
+}
